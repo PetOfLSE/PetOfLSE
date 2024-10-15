@@ -16,8 +16,5 @@
 - [Todo List App](https://github.com/yourusername/todo-app) - A simple task management app using Vue.js and Spring Boot.
 
 ## 📊 GitHub Stats
-![Sanghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Sanghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetOfLSE&show_icons=true&theme=radical)
 
-## 📫 Contact
-- 📧 Email: your.email@example.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
