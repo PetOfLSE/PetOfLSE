@@ -11,7 +11,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ## 🚀 Projects
-- [Book Community](https://github.com/yourusername/book-community) - A platform for book lovers to share reviews and recommendations.
+- [OQP Collaborative Project](https://github.com/sangHoonProject/OQP_backend) - A collaborative Online Quiz Project using Spring Boot.
 - [Todo List App](https://github.com/yourusername/todo-app) - A simple task management app using Vue.js and Spring Boot.
 
 ## 📊 GitHub Stats
