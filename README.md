@@ -2,7 +2,6 @@
 
 ## 💻 About Me
 - Backend Developer (Spring, Java)
-- Learning iOS development with Swift
 - Currently working as an intern
 
 ## 🛠️ Tech Stack
