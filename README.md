@@ -1,7 +1,7 @@
 # Hi there, I'm Sanghoon 👋
 
 ## 💻 About Me
-- Backend Developer (Spring, Java)
+- Aspiring Backend Developer (Spring, Java)
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
