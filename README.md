@@ -1,5 +1,13 @@
 # Hi there, I'm Sanghoon 👋
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/PetOfLSE"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 💻 About Me
 - Aspiring Backend Developer (Spring, Java)
 
